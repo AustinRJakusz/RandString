@@ -1,0 +1,7 @@
+* text eol=lf
+
+*.py text
+*.dat text
+*.bat text
+
+*.sh binary
